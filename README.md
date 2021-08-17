@@ -1,4 +1,8 @@
 # Zombodys-UE4-game
+## Note:
+Unfortunately the base code of this project is suspended due to privacy issues but you could download old versions on 
+
+https://drive.google.com/file/d/1ZVVCWnMj_fq-yZWjZizIh_eLH7jGXM7x/view?usp=sharing
 
 ## Trailer
 https://user-images.githubusercontent.com/59627641/129777767-5f0b9a72-4382-4a87-81d2-352e56e4cee8.mp4
